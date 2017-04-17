@@ -1,0 +1,1 @@
+This repo is the MatLab code for the Implementation of Normalized Cuts and Image Segmentation
